@@ -1,0 +1,7 @@
+tensorflow==2.16.1
+opencv-python-headless==4.9.0.80
+Pillow==10.3.0
+pandas==2.2.2
+beautifulsoup4==4.12.3
+requests==2.32.2
+lxml==5.2.2
